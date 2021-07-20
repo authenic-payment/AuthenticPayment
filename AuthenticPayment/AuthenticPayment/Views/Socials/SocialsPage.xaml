@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:fontawesome="clr-namespace:AuthenticPayment.Models"
+             x:Class="AuthenticPayment.Views.Socials.SocialsPage">
+    <ContentPage.Content>
+
+        <RelativeLayout VerticalOptions="Center">
+
+            <Grid ColumnSpacing="0" RowSpacing="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="140" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="80" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="70*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                
+                <Image Grid.Row="0" Grid.Column="0" Aspect="AspectFill" HorizontalOptions="End" Grid.ColumnSpan="5" x:Name="BannerImage" Source="banner.jpg"/>
+
+                <Label Grid.Row="1" Grid.Column="1" x:Name="TelegramLabel" VerticalTextAlignment="Center" TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.Telegram}" FontFamily="{StaticResource FontAwesomeBrands}" />
+                <Label Grid.Row="1" Grid.Column="2" FontSize="Medium" VerticalTextAlignment="Center" Text="Join our official Telegram" TextColor="Black"/>
+                <!--<Label TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.Whatsapp}" FontFamily="{StaticResource FontAwesomeBrands}" />-->
+                <Label Grid.Row="2" Grid.Column="1" x:Name="FacebookLabel" VerticalTextAlignment="Center" TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.Facebook}" FontFamily="{StaticResource FontAwesomeBrands}" />
+                <Label Grid.Row="2" Grid.Column="2" FontSize="Medium" VerticalTextAlignment="Center" Text="Like us on Facebook" TextColor="Black"/>
+                <Label Grid.Row="3" Grid.Column="1" x:Name="TwitterLabel" VerticalTextAlignment="Center" TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.Twitter}" FontFamily="{StaticResource FontAwesomeBrands}" />
+                <Label Grid.Row="3" Grid.Column="2" FontSize="Medium" VerticalTextAlignment="Center" Text="Follow us on twitter" TextColor="Black"/>
+                <Label Grid.Row="4" Grid.Column="1" x:Name="WebsiteLabel" VerticalTextAlignment="Center" TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.Chrome}" FontFamily="{StaticResource FontAwesomeBrands}" />
+                <Label Grid.Row="4" Grid.Column="2" FontSize="Medium" VerticalTextAlignment="Center" Text="Check out our webpage" TextColor="Black"/>
+                <Label Grid.Row="5" Grid.Column="1" x:Name="EmailLabel" VerticalTextAlignment="Center" TextColor="Black" FontSize="40" Text="{x:Static fontawesome:FontAwesomeIcons.EnvelopeOpen}" FontFamily="{StaticResource FontAwesomeRegular}" />
+                <Label Grid.Row="5" Grid.Column="2" FontSize="Medium" VerticalTextAlignment="Center" Text="Contact us via e-mail" TextColor="Black"/>
+            </Grid>
+
+
+
+        </RelativeLayout>
+        
+        
+
+
+    </ContentPage.Content>
+</ContentPage>
