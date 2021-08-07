@@ -1,0 +1,32 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA",
+"GBAL6GZMGCZL44TAW3NMERB7ZYFCAVJAT5HFECB52QEGLUPUHIHKSXQM"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Authentic-Payment"
+ORG_URL="https://authentic-payment.com/"
+ORG_LOGO="https://stellarmint.io/wp-content/uploads/2021/06/epv5.png"
+ORG_DESCRIPTION="Authentic-payment (Apay) strives to be a secure and authentic coin for real life transactions and applications within the green, lightning fast and very secure Stellar network. 150 million tokens will be held apart for development & annual rewards. 850 will be in circulation in 2022. We are looking to bring block-chain and daily life closer together. Our goal is developing an app to enable a safe and secure private wallet (YourPay) for your Apays and projected daily usage. We have lots of exciting plans and goals for the near and long term future. Follow us on twitter @OfficialApay"
+ORG_KEYBASE="Appahhhh"
+ORG_TWITTER="@OfficialApay"
+ORG_OFFICIAL_EMAIL="Support@authentic-payment.com"
+
+[[CURRENCIES]]
+code="Apay"
+issuer="GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA"
+display_decimals=7
+fixed_number=1000000000
+is_asset_anchored=false
+name="Authentic-payment"
+desc="Fast, green & trustworthy, Apay is the bridge between Stellar and your daily transactions."
+conditions="Authentic-payment (Apay) strives to be a secure and authentic coin for real life transactions and applications within the green, lightning fast and very secure Stellar network. 150 million tokens will be held apart for development & annual rewards. 850 million tokens will be in circulation in 2022. We are looking to bring block-chain and daily life closer together. Our goal is developing an app to enable a safe and secure private wallet (YourPay) for your Apays and projected daily usage. We have lots of exciting plans and goals for the near and long term future. Follow us on twitter @OfficialApay Stay Tuned"
+image="https://stellarmint.io/wp-content/uploads/2021/06/epv5.png"
+
+# Authentic-payment (Apay) Token was issued using the open and inclusive Stellar blockchain network.
+# Home Domain: authenticpayment.stellarmint.io
+# Authentic-payment Token
