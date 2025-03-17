@@ -1,0 +1,36 @@
+
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+
+ACCOUNTS=[
+"GDREF4TAC3RFYVLHEV24CXN2VBGCEEP74BZOC3T4Q4XJ6SXJFMDPNTJL","GCEPVZLVH2OI54UA7CYBBGOFRZVWW35AO6N247PAQGIBWFC2IQOWBP44","GCKEFHFBJ5FEBA4QGWQ535OPANJNYX5JYWLUK7G5DO44QBUFNFP74J4B","GBBZJLSNN54VHV3CCV2HZZQNWXC7LGAGSED3X74NUQEQHKUYMUD7BBZQ","GBMLWWVVI5K76FF44CKVHCIXXDJ5SWAURBN5XT6N3S3GQ5EC4JGPIANG","GBLKYUX7WTARFPM2N5GO7HSTLN6CORNNP43LYKQD46E24SAGLJFWGRDX"]
+
+
+[DOCUMENTATION]
+ORG_NAME="Brave corporation"
+ORG_URL="https://brave-token.age-shield.com"
+ORG_LOGO="https://brave-token.age-shield.com/img/brave-token.png"
+ORG_DESCRIPTION="Brave and BravePay. We make age controls simple"
+ORG_PHYSICAL_ADDRESS="Albert Einstein Kalea, 15, Edificio BIC - Parque Tecnológico de Alava"
+ORG_TWITTER="@BraveCorporati1"
+ORG_OFFICIAL_EMAIL="support@brave-corporation.com"
+
+[[PRINCIPALS]]
+name="Enrique Rubio"
+email="enrique@brave-corporation.com"
+telegram="bat_coder"
+
+
+[[CURRENCIES]]
+code="BRAVE"
+issuer="GDREF4TAC3RFYVLHEV24CXN2VBGCEEP74BZOC3T4Q4XJ6SXJFMDPNTJL"
+name="Brave"
+display_decimals=7
+status="live"
+is_asset_anchored=false
+desc="Brave makes age controls simple. In a world where more industries go digital, the need to regulate and protect consumers is growing in our society. From e-commerce, dating, violent content, vending machines…regulators are enforcing today stricter age controls than ever before. But current age controls based on IDs and passport checks are slow and cumbersome and unnecessarily expose users privacy. Until now.Brave redesigns age controls. With just one selfie, our AI analyzes your face landmarks and defines with surgical precision that you are of legal age. Instant, anonymous, and impossible to hack. But that’s not all. With Brave, Token age-checked payments are now possible. Thanks to the first cryptocurrency with an age tag, BravePay guarantees that children do not get access to products that only adults should buy or see. Brave and BravePay. We make age controls simple. You can do deposits on liquidity pools using our aplication https://tools.bravepay.net"
+conditions="24M will be burn monthly. Staking available on https://staking.bravepay.net. Telegram https://t.me/bravecorporation"
+image="https://brave-token.age-shield.com/img/brave-token.png"
+is_unlimited=false
+
