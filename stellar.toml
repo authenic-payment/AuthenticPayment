@@ -1,0 +1,78 @@
+VERSION="2.0.0" 
+ 
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015" 
+ 
+ACCOUNTS=[ "GAHHULDPDVGB5WS5PH7BCGLJ7ZHECDBIIMKB62UPVDUOCHNFL7HX3FS7","GBPE7L6AMFQL2IGCVD36VVWZR5DDLINLETF2QMBAJG7ZA65MK7WI4BPK","GAMB5TX4HDYOX7UOTKEFGY6CS7WID4HLBB6PQSR46SQSRRTRXL5LYLMT"] 
+ 
+[DOCUMENTATION] 
+ORG_NAME="authentic-Payment" 
+ORG_URL="https://authentic-payment.com/" 
+ORG_LOGO="https://authentic-payment.com/wp-content/uploads/2022/09/0285D629-1002-4423-B2E3-494D73ADE4D3-1.jpeg" 
+ORG_DESCRIPTION="Authentic-Payment is a forward-thinking digital enterprise that offers a wide range of services and products. By leveraging distributed ledger technology and digital currencies, we’ve built a sustainable, scalable ecosystem on the Stellar.org blockchain—designed to be easily adopted and ready for the future.#ApayFam #ACTonStellar" 
+ORG_TWITTER="@OfficialApay" 
+ORG_OFFICIAL_EMAIL="support@authentic-payment.com" 
+ 
+[[CURRENCIES]] 
+code="AXLM" 
+issuer="GAHHULDPDVGB5WS5PH7BCGLJ7ZHECDBIIMKB62UPVDUOCHNFL7HX3FS7"
+display_decimals=5
+name="ApayXLM" 
+desc="1:1 xlm backed token created by Authentic-Payment. Supply is determined on ask & demand. Move your $AXLM to your favorite wallet and be able to farm extra rewards in the APAY ecosystem." 
+conditions="$AXLM supply is determined by ask and demand. for every AXLM released we receive 1xlm, this will be added as liquidity so it's always possible to claim your XLM back. locked at 100M supply," 
+image="https://authentic-payment.com/wp-content/uploads/2022/09/AXLM-logo-v2.png" 
+status="live"
+
+
+[[CURRENCIES]] 
+code="ACT" 
+issuer="GAHHULDPDVGB5WS5PH7BCGLJ7ZHECDBIIMKB62UPVDUOCHNFL7HX3FS7"
+display_decimals=5
+name="APAY Community Token" 
+desc="We’ve introduced the Authentic-payment Community Token ($ACT) to support our ecosystem and the #StellarFamily as well as our other partners.
+by creating connections via liquidity pools and using the stellar decentralized exchange as the main platform you can easily be part of building out liquidity positions, farming $ACT , support both sides of multiple communities and the whole in everything connected with $ACT & Authentic-payment." 
+conditions="$ACT is a 20 million max supply community token created by Authentic-Payment.com, Participants in the $ACT rewards program automatically get their share of the 80K monthly ACT rewards.
+simply hold 1250 $ACT or join one of the partnered, or main liquidity pools to start receiving by the hour, and top that amount up by being an active member/ambassador for ACT in our HUB.
+boost our and our partners communities while learning, trading, pooling and earning digital currencies, connect with stellar, other stellar projects, platforms & tokens.#ACTonStellar 
+image="https://authentic-payment.com/wp-content/uploads/2022/09/cropped-WhiteGoldV4.png" 
+status="live"
+
+[[CURRENCIES]] 
+code="MBC" 
+issuer="GBPE7L6AMFQL2IGCVD36VVWZR5DDLINLETF2QMBAJG7ZA65MK7WI4BPK"
+display_decimals=5
+name="Moon Boys Crypto" 
+desc="Private investors yield asset. no banks. no institutions. just us a group of entrepreneurs creating a 100% liquid yield asset using and farming on the Stellar Decentralized Exchange and reaping AMM rewards to expand value." 
+conditions="fee on DEX buys, used to create extra liquidity and building out our yields, contact us before interacting!"
+image="https://authentic-payment.com/wp-content/uploads/2024/01/photo_2024-01-29-09.13.38.jpeg" 
+status="live"
+
+[[CURRENCIES]]
+code="AEUR" 
+issuer="GAMB5TX4HDYOX7UOTKEFGY6CS7WID4HLBB6PQSR46SQSRRTRXL5LYLMT"
+display_decimals=5
+name="ApayEURO" 
+desc="1:1 Euro backed token with EURC by Circle, created by Authentic-Payment. Supply is determined on ask & demand. Move your $AEUR to your favorite wallet and be able to trade/swap it 1:1 back." 
+conditions="$AEUR supply is determined by ask and demand. for every AEUR released we receive 1 EURC, it's automatically minted and burned on ask and demand." 
+image="https://authentic-payment.com/wp-content/uploads/2024/09/AEUR-no-BG.png" 
+status="live"
+
+[[CURRENCIES]]
+code="TBT" 
+issuer="GAM2H25SAS5LEBZAF2FSZOJ73LNQUJ6KG3VKS2A6DPF7M5MVNLXYITUD"
+display_decimals=2
+name="TokenBetaTester" 
+desc="tokenizing beta tool,used to demonstrate the digital voucher concept and others on the spot." 
+conditions="none" 
+image="https://authentic-payment.com/wp-content/uploads/2022/07/2080px-galaxy-white-v2-glow-nobg-2048x2048.png" 
+status="live"
+
+[[PRINCIPALS]]
+email="support@authentic-payment.com"
+twitter="@officialapay"
+telegram="https://t.me/EarnACT"
+telegram="https://t.me/Authenticpayment"
+tiktok="https://www.tiktok.com/@officialacthub"
+
+# Home Domain:authentic-payment.com 
+# $Authentic-Payment
+# $Apay $AXLM $ACT
