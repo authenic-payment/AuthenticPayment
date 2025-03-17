@@ -1,37 +1,46 @@
 #  Authentic-payment
 
-Fast, green & trustworthy. 
-Apay is the bridge between Stellar and your daily transactions.
-You will find more on our website [https://Authentic-payment.com](https://authentic-payment.com)
+Authentic-Payment is a forward-thinking digital enterprise that offers a wide range of services and products. By leveraging distributed ledger technology and digital currencies, we’ve built a sustainable, scalable ecosystem on the Stellar.org blockchain—designed to be easily adopted and ready for the future.
 
 # About us
 
 ## About Apay
-Authentic-payment (Apay) strives to be a secure and authentic coin for real life transactions and applications within the green, lightning fast and very secure Stellar network.
+The power of stellar combined with $Apay and Authentic-Payment calls for a new approach to the crypto industry.
+ instead of reinventing the wheel we will seek to connect the dots and look for already created or simple solutions, by staying up to date with valuable utility projects and developments, we make sure to find the best solution for our community, users & partners.
 
-We are looking to bring blockchain and daily life closer together. By using NFC on PoS (payment system like a pin terminal) to use, our goal is to develop an app to enable a safe and secure private wallet (MyPay) for your Apays and projected daily usage.  
-We have lots of exciting plans and goals for the near, and long term future.
-
+Authentic-Payment token ($Apay) will be the leading token in our eco system, alongside with $ACT it's ready to nestle itself in the Stellar DEX together with its partners in liquidity rewards.
 ## So why do you want us?
-You believe crypto is the future of finance and you want an easy place to store your Stellar Apay’s safely and securely while also being able to pay with it wherever you would like. The Apay app MyPay will get a bank-like interface so it is accessible and understandable for everyone.
-
+Since they have been issued on the stellar network we have almost instant transfers, with the stellar consensus protocol fees are almost none, the energy consumption per transaction is over 99% lower than Bitcoin and Ethereum & can process over 10000 transactions a second.
+highly secured network and no spam tokens in your wallet without approval because of the trustlines.
+choose your network smartly, choose stellar.
 # White paper
 
 ## About
 Authentic-payment (Apay) strives to be a secure and authentic token for real life transactions and applications within the green, lightning fast and very secure Stellar network.
 
 ## Vision
-The idea and vision behind Apay is to bring block-chain and every day life closer together. By creating a wallet (MyPay) for storing, sending and paying with Apay through NFC, Apay strives to replace and/or add to the current daily financial transaction ways usually done through your bank apps with the benefits and security of Stellar and pos. We hope to see you pay friends or at your local bakery with Apay in the future. We strive to be Decentralized as soon as everything is up and running.
+The idea and vision behind Authentic-Payment is to bring block-chain and everyday life closer together. By creating $Apay and using the Stellar DEX for storing, sending and trading your $Apay, $ACT and your other tokens, assets or NFTs on the Stellar Decentralised Exchange, you stay in control.
+your keys, your coins, connect via your favourite tool and experience the easy of the Stellar chain and its fast way of transacting value for the fraction of a cent.
+
+with freedom in our hearts but business on our minds we like to explore the possibilities on chain, 
+show people in the real world what already is being done and then apply that to their needs.
+
+we also focus on the business side of our project & community side to create new concepts together which can help to reduce costs, generate more returns & eventually more exposure to Authentic-Payment. 
+there are multiple concepts to tokenize your idea and or business and by joining us we can manage that for you, as desired on your conditions with your own keys.
+From funds to NFTs, we can help bring your idea to life and talk about the potential reactions, impact, necessities and movements of all things combined on chain.
+
 
 ## Supply
-We have a maximum supply of 1 billion Apay. 850M will be circulating in 2022. The remaining 150M will be held for development, cost coverage, marketing, community & team rewards.
+We have a maximum supply of 1 billion Apay.
 
 ## Users
 
-We will introduce a reward system for using Apay. At the time YourPay will be released, we will let our community vote for a suitable URS(User Reward System) for us all.
+The ACT partnerships concept can be a game changer for us and will bring 
+multiple businesses & professions together . 
+The coming few years will decide the exact path for MyPay (our stellar wallet), for now it is unnecessary because there are way better tools & wallets available then we can currently produce.
+but there are many options and other possibilities for Authentic-Payment to focus on in the meantime, $Apay,$AEUR, ACT, expending our digital network and settling in the physical world.
 
-Community is key. We believe in the power of the people, so by being a strong friendly and respectful community we can make the difference between integration and rejection. That’s why we choose to be as active as possible. You can always reach out to us for information, advise or any help that you might need.
-
+we will combine our vision with our community and partners to get the best for us all.
 Kind regards Team Authentic-Payment
 
 ## Wallet & exchange
@@ -42,15 +51,14 @@ Kind regards Team Authentic-Payment
 | [Scopuly](https://www.scopuly.com/trade/Apay-XLM/GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA/native) | [Lobstr](https://lobstr.co/assets/Apay:GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA) | [StellerTerm](https://stellarterm.com/exchange/Apay-GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA/XLM-native)|
 
 # Follow us on
-[Facebook](https://www.facebook.com/Authentic-Payment-103724298649650)
+[Twitter](https://x.com/OfficialApay)
+[Twitter](https://x.com/OfficialACThub)
 
-[Twitter](https://twitter.com/OfficialApay)
 
 [Telegram](https://t.me/Authenticpayment)
+[Telegram](https://t.me/EarnACT)
 
 [Discord](https://discord.gg/V4UAr6d8WQ)
-
-[Reddit](https://www.reddit.com/r/OfficialApay/)
 
 [Email](mailto:support@authentic-payment.com)
 
