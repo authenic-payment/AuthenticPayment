@@ -43,6 +43,9 @@ but there are many options and other possibilities for Authentic-Payment to focu
 we will combine our vision with our community and partners to get the best for us all.
 Kind regards Team Authentic-Payment
 
+hhtps://authentic-payment.com for all information, services and useful tools.
+
+
 ## Wallet & exchange
 
 |Scopuly| Lobstr | StellarTerm |
