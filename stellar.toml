@@ -28,11 +28,8 @@ code="ACT"
 issuer="GAHHULDPDVGB5WS5PH7BCGLJ7ZHECDBIIMKB62UPVDUOCHNFL7HX3FS7"
 display_decimals=5
 name="APAY Community Token" 
-desc="We’ve introduced the Authentic-payment Community Token ($ACT) to support our ecosystem and the #StellarFamily as well as our other partners.
-by creating connections via liquidity pools and using the stellar decentralized exchange as the main platform you can easily be part of building out liquidity positions, farming $ACT , support both sides of multiple communities and the whole in everything connected with $ACT & Authentic-payment." 
-conditions="$ACT is a 20 million max supply community token created by Authentic-Payment.com, Participants in the $ACT rewards program automatically get their share of the 80K monthly ACT rewards.
-simply hold 1250 $ACT or join one of the partnered, or main liquidity pools to start receiving by the hour, and top that amount up by being an active member/ambassador for ACT in our HUB.
-boost our and our partners communities while learning, trading, pooling and earning digital currencies, connect with stellar, other stellar projects, platforms & tokens.#ACTonStellar 
+desc="We’ve introduced the Authentic-payment Community Token ($ACT) to support our ecosystem and the #StellarFamily as well as our other partners. by creating connections via liquidity pools and using the stellar decentralized exchange as the main platform you can easily be part of building out liquidity positions, farming $ACT , support both sides of multiple communities and the whole in everything connected with $ACT & Authentic-payment." 
+conditions="$ACT is a 20 million max supply community token created by Authentic-Payment.com, Participants in the $ACT rewards program automatically get their share of the 80K monthly ACT rewards. simply hold 1250 $ACT or join one of the partnered, or main liquidity pools to start receiving by the hour, and top that amount up by being an active member/ambassador for ACT in our HUB. boost our and our partners communities while learning, trading, pooling and earning digital currencies, connect with stellar, other stellar projects, platforms & tokens.#ACTonStellar"
 image="https://authentic-payment.com/wp-content/uploads/2022/09/cropped-WhiteGoldV4.png" 
 status="live"
 
@@ -70,8 +67,6 @@ status="live"
 email="support@authentic-payment.com"
 twitter="@officialapay"
 telegram="https://t.me/EarnACT"
-telegram="https://t.me/Authenticpayment"
-tiktok="https://www.tiktok.com/@officialacthub"
 
 # Home Domain:authentic-payment.com 
 # $Authentic-Payment
